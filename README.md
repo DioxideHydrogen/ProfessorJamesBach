@@ -3,7 +3,7 @@
 - Trabalho a 2 anos com Desenvolvimento Web
 - Me sinto confortável trabalhando com PHP e Javascript
 - Com ajuda consigo desenvolver aplicações usando React.js, Node.js e Java.
-- Me sinto inspirado a trabalhar no Univer Mobile
+- Me sinto inspirado a trabalhar no Universo Mobile
 - Atualmente aprendendendo sobre o Universo React
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&langs_count=10&theme=dracula)  
