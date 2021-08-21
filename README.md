@@ -6,7 +6,8 @@
 - Me sinto inspirado a trabalhar no Univer Mobile
 - Atualmente aprendendendo sobre o Universo React
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&langs_count=10&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&langs_count=10&theme=dracula)  
+
 ![Contribuições](https://github-readme-stats.vercel.app/api?username=ProfessorJamesBach&count_private=true&show_icons=true&theme=dracula)
 
 - Projetinhos   
