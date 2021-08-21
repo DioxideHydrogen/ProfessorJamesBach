@@ -1,4 +1,19 @@
-### Hi there 👋
+### Olá, eu sou o Hugo Henrique 👋
+
+- Trabalho a 2 anos com Desenvolvimento Web
+- Me sinto confortável trabalhando com PHP e Javascript
+- Com ajuda consigo desenvolver aplicações usando React.js, Node.js e Java.
+- Me sinto inspirado a trabalhar no Univer Mobile
+- Atualmente aprendendendo sobre o Universo React
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessorJamesBach&layout=compact&langs_count=10&theme=dracula)
+![Contribuições](https://github-readme-stats.vercel.app/api?username=ProfessorJamesBach&count_private=true&show_icons=true&theme=dracula)
+
+- Projetinhos   
+  - Inys  
+  [![Inys](https://github-readme-stats.vercel.app/api/pin/?username=ProfessorJamesBach&repo=Inys&theme=dracula)](https://github.com/ProfessorJamesBach/Inys)  
+  - Insert Sort inspirado no CS50 de Harvard  
+  [![InsertSort](https://github-readme-stats.vercel.app/api/pin/?username=ProfessorJamesBach&repo=InsertSortPHP&theme=dracula)](https://github.com/ProfessorJamesBach/InsertSortPHP)
 
 <!--
 **ProfessorJamesBach/ProfessorJamesBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
