@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hugo Henrique 👋
 
 - Trabalho a 2 anos com Desenvolvimento Web
-- Me sinto confortável trabalhando com PHP e Javascript
+- Me sinto confortável trabalhando com PHP/Laravel e Javascript
 - Com ajuda consigo desenvolver aplicações usando React.js, Node.js e Java.
 - Me sinto inspirado a trabalhar no Universo Mobile
 - Atualmente aprendendendo sobre o Universo React
